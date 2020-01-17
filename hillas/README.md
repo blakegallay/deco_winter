@@ -9,7 +9,8 @@ Some good resources:
   
 My slides: https://docs.google.com/presentation/d/1bN6viRP7E_aP9MXYbzJE9Bm6t2qdwNnSHxLOU3rKU18/edit#slide=id.p
 
-Directories and files:
+## Directories and files:
+
 /irradiation_images: images from the irradiation experiment, used to test Hillas scripts
 
 /results: all sorts of results, calculations, and plots

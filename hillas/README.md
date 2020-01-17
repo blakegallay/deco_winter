@@ -1,3 +1,6 @@
+MISSING final_trained_weights.h5
+This can be found on the Cobalts in various places. /data/user/bgallay/cnn-classification has a copy of this file
+
 Things that have to do with calculating and analyzing Hillas parameters. 
 
 Some good resources:

@@ -19,7 +19,7 @@ hists/hists2.py: make the histograms in ./plots (almost the same file, just for 
 
 fix.py: adds CNN data into spreadsheets that come back from the Cobalts without it, used because CNN probabilities stay relatively constant between modifications to my image analysis algorithms, we mostly change how Hillas parameters are calculated. Since classification supplies the largest overhead, we just re-calculate Hillas parameters on the Cobalts and then inject the same CNN data back into the csvs locally. Bad pipeline? Definitely.
 
-hillas_hists.ipynb: makes histograms 
+classification_hists.ipynb: makes histograms of CNN probabilities for simulation events
 
 
 

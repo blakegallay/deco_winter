@@ -2,7 +2,7 @@ import os
 import scipy.misc
 import copy
 import numpy as np
-# image dimensions: 2592 x 1944
+# image dimensions: 2592 x 1944 hmm
 width = 2592
 height = 1944
 # pixel dimensions: 0.9um x 0.9um
